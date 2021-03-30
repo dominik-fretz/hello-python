@@ -1,7 +1,7 @@
-def calculate_sum(p1, p2):
-    return p1 + p2
+def calculate_result(p1, p2):
+    return p1 * p2
 
 
-sum = calculate_sum(20, 22)
+sum = calculate_result(7, 6)
 
 print("The answer is: %s" % sum)
