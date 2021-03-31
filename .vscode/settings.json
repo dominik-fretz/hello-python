@@ -3,4 +3,9 @@
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "editor.formatOnSave": true,
+    "python.pythonPath": "C:\\Users\\robot\\scoop\\apps\\python\\current\\python.exe"
+    // "python.formatting.provider": "black",
+    // "python.linting.pylintEnabled": true,
+    // "python.linting.enabled": true,
+    // "editor.formatOnSave": true,
 }
