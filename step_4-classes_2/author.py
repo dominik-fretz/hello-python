@@ -3,3 +3,4 @@ class Author:
         self.name = name
         self.firstName = firstName
         self.nationality = nationality
+        self.age = 21
